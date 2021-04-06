@@ -1,0 +1,15 @@
+{
+  "name": "bot-gc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "author": "Esteban Cazorla",
+  "license": "ISC",
+  "dependencies": {
+    "aws-lambda": "^1.0.6",
+    "cheerio": "^1.0.0-rc.5",
+    "minimist": "^1.2.5",
+    "node-fetch": "^2.6.1",
+    "twilio": "^3.59.0"
+  }
+}
